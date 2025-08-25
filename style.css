@@ -158,8 +158,9 @@ body{
     background-color: #dac3f8;
     padding: 2px;
     border-radius: 3px;
-    width: fit-content;
+    width: 32px;
     height: fit-content;
+    text-align: center;
 }
 
 .entry .hidden{
@@ -361,4 +362,5 @@ body{
     }
     
 }
+
 /*
