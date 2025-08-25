@@ -340,7 +340,7 @@ body{
     background-color: #c5abe8;
     background-color: #b18de0;
     cursor: pointer;
-    background-image: url(open_in_new_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg);
+    background-image: url(images/open_in_new_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 60%;
@@ -364,3 +364,4 @@ body{
 }
 
 /*
+
